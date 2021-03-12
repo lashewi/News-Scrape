@@ -1,7 +1,6 @@
 #ENV Variables 
 .env
 
-#Bin
 .ipynb_checkpoints
-bin
+bin/
 lib/
